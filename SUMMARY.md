@@ -6,3 +6,4 @@
 * [HTTP SERVER](http-server.md)
 * [Java HTTP Server](java-http-server.md)
 * [Spring Web Mvc](spring-web-mvc.md)
+* [2주차 REST API](2-rest-api.md)
