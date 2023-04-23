@@ -7,4 +7,5 @@
 * [Java HTTP Server](java-http-server.md)
 * [Spring Web Mvc](spring-web-mvc.md)
 * [2주차 REST API](2-rest-api.md)
+* [URI 와 MIME Type 이란?](uri-mime-type.md)
 * [Collections Pattern](collections-pattern.md)
