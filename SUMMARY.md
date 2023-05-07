@@ -14,3 +14,4 @@
 * [Serilalization](serilalization.md)
 * [4주차 레이어드 아키텍쳐](4.md)
 * [Data Access](data-access.md)
+* [Domain Model](domain-model.md)
