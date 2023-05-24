@@ -22,3 +22,4 @@
 * [6주차  Database](6-database.md)
 * [Relational Model](relational-model.md)
 * [Relational Algebra](relational-algebra.md)
+* [7주차 JPA](7-jpa.md)
